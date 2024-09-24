@@ -1,2 +1,2 @@
 # Heart-Disease-Data
-This repository contain the data for the Set Practical Exercise
+This repository contains the data for the Set Practical Exercise
